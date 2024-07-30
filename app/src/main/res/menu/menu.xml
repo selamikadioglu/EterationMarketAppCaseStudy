@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeIc"
+        android:icon="@drawable/ic_home_black"
+        android:title="@string/home_text" />
+
+    <item
+        android:id="@+id/basketIc"
+        android:icon="@drawable/ic_shopping_basket"
+        android:title="@string/basket_text" />
+
+    <item
+        android:id="@+id/favoriteIc"
+        android:icon="@drawable/ic_unselected_star_v2"
+        android:title="@string/favorite_text" />
+
+    <item
+        android:id="@+id/profileIc"
+        android:icon="@drawable/ic_person"
+        android:title="@string/profile_text" />
+
+</menu>

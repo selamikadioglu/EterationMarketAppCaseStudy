@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Nativemobilecasestudy" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/mainBlue</item>
+        <item name="android:statusBarColor">@color/mainBlue</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Nativemobilecasestudy" parent="Base.Theme.Nativemobilecasestudy" />
+</resources>
